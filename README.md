@@ -1,2 +1,2 @@
-# pin-you
-asdasd
+# yarn simple app
+some description
